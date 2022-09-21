@@ -34,10 +34,13 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 - [ ] todo list
 - [x] done
 
+***
+
 ```python
 s = " Python syntax highlighting "
 print s 
 ```
+***
 
 ```js
 var s = " JavaScript syntax highlighting ";
@@ -51,7 +54,7 @@ alert (s);
 | col 3 is | are neat | 1 | 
 | test | 測試 | 3333 | 
 
-
+[播放https://www.youtube.com/watch?v=sSm2dRarhPo](https://www.youtube.com/watch?v=sSm2dRarhPo)
 
 
 
